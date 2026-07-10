@@ -51,7 +51,7 @@ print(type(name))
 print(type(year))
 print(type(True))
 
-# Casting (chaneg data types)
+# Casting (change data types)
 print(20 + int("20"))
 print(20 + age)
 
