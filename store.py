@@ -68,7 +68,7 @@ def view_cart():
 # MAIN PROGRAM LOOP
 option = ""
 while option != "q" and option != "Q":
-    header("Welcome to Store XY")
+    header("Welcome to Rockin J Hardware Store")
     menu()
 
     option = input("Choose an option:")

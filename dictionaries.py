@@ -109,16 +109,6 @@ print("updated report card: ", report_card)
 
 
 
-# Solution
-#
-#
-#
-#
-#
-#
-#
-#
-
 
 
 
